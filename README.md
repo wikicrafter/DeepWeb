@@ -37,7 +37,7 @@ Firmware flashing tools
 
 <hr>
  
- 1. [Introduction To Bitcoin](00010010.md)
+ 1. [Introduction To Bitcoin](00010010.md) 
 
 
 <hr>
