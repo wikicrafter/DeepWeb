@@ -26,7 +26,7 @@ Firmware flashing tools
  11
  -->
 
-1. [Deep Web Nuances](1011.md)
+1. [Deep Web Nuances(Shades)](1011.md)
 2. [Tor's Interface And Security Features](1100.md)
 3. [The Hidden Wiki - Welcome To The Deep Web!](1101.md)
 4. [Deep Web Search Engines](1110.md)
