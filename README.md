@@ -1,6 +1,11 @@
 # DeepWeb
 ### Here will be shared almost everything what you need to know about DeepWeb 
 
+ <!--
+Just a comment 
+Firmware flashing tools 
+ -->
+
 <hr>
 
 1. [What Is The Deep Web](0001.md)
@@ -18,9 +23,16 @@
 <hr>
  
  <!--
- 12
- [Installing And Configuring Tor On UbuntuLinux](1011.md) 
- 
+ 11
  -->
+
+1. [Deep Web Nuances](1011.md)
+2. [Tor's Interface And Security Features](1100.md)
+3. [The Hidden Wiki - Welcome To The Deep Web!](1101.md)
+4. [Deep Web Search Engines](1110.md)
+5. [Deep Web Email Providers](1111.md)
+6. [Deep Web Social Networks And Forums](00010000.md)
+7. [Deep Web Chat Rooms](00010001.md)
+8. [Deep Web Markets](00010010.md)
 
 [Move to the top](https://github.com/wikicrafter/DeepWeb)
