@@ -8,7 +8,7 @@ Firmware flashing tools
 
 <hr>
 
-1. [What Is The Deep Web](0001.md)
+1. [What Is The Deep Web](data/0001.md)
 2. [Common Myths And Misconceptions About The Deep Web](0010.md)
 3. [How Tor Works](0011.md)
 4. [What Is PGP](0100.md) 
