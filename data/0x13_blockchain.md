@@ -42,8 +42,8 @@ Companies like *Chainalysis* or *Elliptic* specialize in tracking crypto crimes.
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x12 Bitcoin](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x14 Wallets ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x12 Bitcoin](0x12_intro_btc.md)** | **[🏠 Home](../README.md)** | **[Next: 0x14 Wallets ➡️](0x14_choosing_wallet.md)**
+[⬅️ Previous: 0x12 Bitcoin](0x12_intro_btc.md) | [🏠 Home](../README.md) | [Next: 0x14 Wallets ➡️](0x14_choosing_wallet.md)

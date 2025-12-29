@@ -43,8 +43,8 @@ Most competent markets now accept (or mandate) Monero because it protects both t
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x11 Markets](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x13 Blockchain ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x11 Markets](0x11_markets.md)** | **[🏠 Home](../README.md)** | **[Next: 0x13 Blockchain ➡️](0x13_blockchain.md)**
+[⬅️ Previous: 0x11 Markets](0x11_markets.md) | [🏠 Home](../README.md) | [Next: 0x13 Blockchain ➡️](0x13_blockchain.md)

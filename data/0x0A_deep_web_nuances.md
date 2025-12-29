@@ -44,8 +44,8 @@ Hackers use brute-force generators (like `mkp224o`) to create addresses that sta
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x09 Distros](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x0B Security ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x09 Distros](0x09_linux_distros.md)** | **[🏠 Home](../README.md)** | **[Next: 0x0B Security ➡️](0x0B_tor_security.md)**
+[⬅️ Previous: 0x09 Distros](0x09_linux_distros.md) | [🏠 Home](../README.md) | [Next: 0x0B Security ➡️](0x0B_tor_security.md)

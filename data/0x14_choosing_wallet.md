@@ -44,8 +44,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x13 Blockchain](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x15 Recommended ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x13 Blockchain](0x13_blockchain.md)** | **[🏠 Home](../README.md)** | **[Next: 0x15 Recommended ➡️](0x15_recommended_wallet.md)**
+[⬅️ Previous: 0x13 Blockchain](0x13_blockchain.md) | [🏠 Home](../README.md) | [Next: 0x15 Recommended ➡️](0x15_recommended_wallet.md)

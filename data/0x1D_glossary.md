@@ -45,8 +45,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x1C Physical](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x1E Emergency ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x1C Physical](0x1C_physical_opsec.md)** | **[🏠 Home](../README.md)** | **[Next: 0x1E Emergency ➡️](0x1E_emergency_protocols.md)**
+[⬅️ Previous: 0x1C Physical](0x1C_physical_opsec.md) | [🏠 Home](../README.md) | [Next: 0x1E Emergency ➡️](0x1E_emergency_protocols.md)

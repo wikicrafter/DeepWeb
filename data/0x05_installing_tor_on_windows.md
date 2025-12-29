@@ -11,7 +11,7 @@
 ### Installation Guide (Windows)
 
 > [!CAUTION]
-> Installing on Windows is not recommended for high-threat models. If you are buying drugs or leaking state secrets, STOP. Go to [0x07_tails_os_install.md](0x07_tails_os_install.md).
+> Installing on Windows is not recommended for high-threat models. If you are buying on darknet or leaking any secrets, STOP. Go to [0x07_tails_os_install.md](0x07_tails_os_install.md).
 > If you are just browsing: Proceed.
 
 1.  **Download**: Navigate to [TorProject.org](https://www.torproject.org/download/)
@@ -49,8 +49,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x04 Windows](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x06 Qubes ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x04 Windows](0x04_dont_use_windows.md)** | **[🏠 Home](../README.md)** | **[Next: 0x06 Qubes ➡️](0x06_qubes_os_install.md)**
+[⬅️ Previous: 0x04 Windows](0x04_dont_use_windows.md) | [🏠 Home](../README.md) | [Next: 0x06 Qubes ➡️](0x06_qubes_os_install.md)

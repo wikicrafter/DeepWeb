@@ -62,5 +62,7 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x1E Emergency Protocols](0x1E_emergency_protocols.md)** | **[🏠 Home](../README.md)** | **[Next: 0x20 Case Studies ➡️](0x20_case_studies.md)**
+[⬅️ Previous: 0x1E Emergency](0x1E_emergency_protocols.md) | [🏠 Home](../README.md) | [Next: 0x20 Case Studies ➡️](0x20_case_studies.md)

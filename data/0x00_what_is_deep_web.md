@@ -67,5 +67,7 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[🏠 Home](../README.md)** | **[Next: 0x01 Myths ➡️](0x01_myths_and_misconceptions.md)**
+[🏠 Home](../README.md) | [Next: 0x01 Myths ➡️](0x01_myths_and_misconceptions.md)

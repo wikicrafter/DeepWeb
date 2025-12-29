@@ -46,8 +46,8 @@ Tails isn't just an OS; it's a toolbox. It comes pre-installed with everything y
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x07 Tails Install](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x09 Linux Distros ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x07 Tails Install](0x07_tails_os_install.md)** | **[🏠 Home](../README.md)** | **[Next: 0x09 Linux Distros ➡️](0x09_linux_distros.md)**
+[⬅️ Previous: 0x07 Tails Install](0x07_tails_os_install.md) | [🏠 Home](../README.md) | [Next: 0x09 Distros ➡️](0x09_linux_distros.md)

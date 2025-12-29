@@ -49,8 +49,8 @@ A system that publishes (or deletes) data if you fail to check in after X days. 
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x1D Glossary](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x1F Resources ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x1D Glossary](0x1D_glossary.md)** | **[🏠 Home](../README.md)** | **[Next: 0x1F Resources ➡️](0x1F_resources.md)**
+[⬅️ Previous: 0x1D Glossary](0x1D_glossary.md) | [🏠 Home](../README.md) | [Next: 0x1F Resources ➡️](0x1F_resources.md)

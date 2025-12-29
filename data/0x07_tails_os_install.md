@@ -50,8 +50,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x06 Qubes](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x08 Tails Overview ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x06 Qubes](0x06_qubes_os_install.md)** | **[🏠 Home](../README.md)** | **[Next: 0x08 Tails Overview ➡️](0x08_tails_os_overview.md)**
+[⬅️ Previous: 0x06 Qubes](0x06_qubes_os_install.md) | [🏠 Home](../README.md) | [Next: 0x08 Tails Overview ➡️](0x08_tails_os_overview.md)

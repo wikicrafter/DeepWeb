@@ -47,8 +47,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x05 Tor Install](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x07 Tails Install ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x05 Tor Install](0x05_installing_tor_on_windows.md)** | **[🏠 Home](../README.md)** | **[Next: 0x07 Tails Install ➡️](0x07_tails_os_install.md)**
+[⬅️ Previous: 0x05 Tor Install](0x05_installing_tor_on_windows.md) | [🏠 Home](../README.md) | [Next: 0x07 Tails Install ➡️](0x07_tails_os_install.md)

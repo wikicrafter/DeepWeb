@@ -51,5 +51,7 @@ If you are just browsing out of curiosity and doing nothing illegal:
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x03 PGP](0x03_what_is_pgp.md)** | **[🏠 Home](../README.md)** | **[Next: 0x05 Tor on Windows ➡️](0x05_installing_tor_on_windows.md)**
+[⬅️ Previous: 0x03 PGP](0x03_what_is_pgp.md) | [🏠 Home](../README.md) | [Next: 0x05 Install ➡️](0x05_installing_tor_on_windows.md)

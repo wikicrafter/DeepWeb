@@ -45,8 +45,8 @@ Hosting a Tor site makes you a target. If your server is misconfigured, it leaks
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x18 GPG](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x1A Mobile ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x18 GPG](0x18_gpg4win.md)** | **[🏠 Home](../README.md)** | **[Next: 0x1A Mobile ➡️](0x1A_mobile_deep_web.md)**
+[⬅️ Previous: 0x18 GPG](0x18_gpg4win.md) | [🏠 Home](../README.md) | [Next: 0x1A Mobile ➡️](0x1A_mobile_deep_web.md)

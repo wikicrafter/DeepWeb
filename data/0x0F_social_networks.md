@@ -44,8 +44,8 @@ Intelligence agencies build profiles by piecing together small, seemingly harmle
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x0E Email](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x10 Chat ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x0E Email](0x0E_email_providers.md)** | **[🏠 Home](../README.md)** | **[Next: 0x10 Chat ➡️](0x10_chat_rooms.md)**
+[⬅️ Previous: 0x0E Email](0x0E_email_providers.md) | [🏠 Home](../README.md) | [Next: 0x10 Chat ➡️](0x10_chat_rooms.md)

@@ -45,8 +45,8 @@ If you absolutely must click buttons for pennies, these are the ones that actual
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x16 Faucets](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x18 GPG ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x16 Faucets](0x16_btc_faucets.md)** | **[🏠 Home](../README.md)** | **[Next: 0x18 GPG ➡️](0x18_gpg4win.md)**
+[⬅️ Previous: 0x16 Faucets](0x16_btc_faucets.md) | [🏠 Home](../README.md) | [Next: 0x18 GPG ➡️](0x18_gpg4win.md)

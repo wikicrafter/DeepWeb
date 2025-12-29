@@ -46,8 +46,8 @@ To show you gambling ads. They hop you will take your $1 earnings and lose it in
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x15 Wallets](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x17 Best Faucets ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x15 Wallets](0x15_recommended_wallet.md)** | **[🏠 Home](../README.md)** | **[Next: 0x17 Best Faucets ➡️](0x17_best_faucets.md)**
+[⬅️ Previous: 0x15 Wallets](0x15_recommended_wallet.md) | [🏠 Home](../README.md) | [Next: 0x17 Best ➡️](0x17_best_faucets.md)

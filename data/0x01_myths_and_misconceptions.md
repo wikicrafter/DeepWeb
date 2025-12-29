@@ -58,5 +58,7 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x00 What is Deep Web](0x00_what_is_deep_web.md)** | **[🏠 Home](../README.md)** | **[Next: 0x02 How Tor Works ➡️](0x02_how_tor_works.md)**
+[⬅️ Previous: 0x00 Deep Web](0x00_what_is_deep_web.md) | [🏠 Home](../README.md) | [Next: 0x02 Tor ➡️](0x02_how_tor_works.md)

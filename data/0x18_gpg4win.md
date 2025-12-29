@@ -43,8 +43,8 @@ Your private key is your identity. If you lose it, you lose your reputation and 
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x17 Faucets](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x19 Hosting ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x17 Faucets](0x17_best_faucets.md)** | **[🏠 Home](../README.md)** | **[Next: 0x19 Hosting ➡️](0x19_hosting.md)**
+[⬅️ Previous: 0x17 Faucets](0x17_best_faucets.md) | [🏠 Home](../README.md) | [Next: 0x19 Hosting ➡️](0x19_hosting.md)

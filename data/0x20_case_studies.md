@@ -57,5 +57,7 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x1F Resources](0x1F_resources.md)** | **[🏠 Home](../README.md)**
+[⬅️ Previous: 0x1F Resources](0x1F_resources.md) | [🏠 Home](../README.md)
