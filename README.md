@@ -7,6 +7,8 @@
  ╚═════╝ ╚══════╝╚══════╝╚═╝          ╚══╝╚══╝ ╚══════╝╚═════╝ 
 ```
 
+![Deep Web Banner](img/banner.png)
+
 > root@deepweb:~# systemctl start education_module
 
 ### [ SYSTEM BOOT SEQUENCE INITIATED ]
