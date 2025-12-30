@@ -64,5 +64,7 @@ graph LR
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x01 Myths](0x01_myths_and_misconceptions.md)** | **[🏠 Home](../README.md)** | **[Next: 0x03 PGP ➡️](0x03_what_is_pgp.md)**
+[⬅️ Previous: 0x01 Myths](0x01_myths_and_misconceptions.md) | [🏠 Home](../README.md) | [Next: 0x03 PGP ➡️](0x03_what_is_pgp.md)

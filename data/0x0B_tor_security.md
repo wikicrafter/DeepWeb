@@ -45,8 +45,8 @@ Tor Browser fights "Browser Fingerprinting" by making all users look the same.
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x0A Nuances](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x0C Wiki ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x0A Nuances](0x0A_deep_web_nuances.md)** | **[🏠 Home](../README.md)** | **[Next: 0x0C Wiki ➡️](0x0C_hidden_wiki.md)**
+[⬅️ Previous: 0x0A Nuances](0x0A_deep_web_nuances.md) | [🏠 Home](../README.md) | [Next: 0x0C Wiki ➡️](0x0C_hidden_wiki.md)

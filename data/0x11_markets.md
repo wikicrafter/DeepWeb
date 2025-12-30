@@ -49,8 +49,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x10 Chat](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x12 Bitcoin ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x10 Chat](0x10_chat_rooms.md)** | **[🏠 Home](../README.md)** | **[Next: 0x12 Bitcoin ➡️](0x12_intro_btc.md)**
+[⬅️ Previous: 0x10 Chat](0x10_chat_rooms.md) | [🏠 Home](../README.md) | [Next: 0x12 Bitcoin ➡️](0x12_intro_btc.md)

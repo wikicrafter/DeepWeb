@@ -43,8 +43,8 @@
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x14 Choosing](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x16 Faucets ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x14 Choosing](0x14_choosing_wallet.md)** | **[🏠 Home](../README.md)** | **[Next: 0x16 Faucets ➡️](0x16_btc_faucets.md)**
+[⬅️ Previous: 0x14 Choosing](0x14_choosing_wallet.md) | [🏠 Home](../README.md) | [Next: 0x16 Faucets ➡️](0x16_btc_faucets.md)

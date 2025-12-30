@@ -45,8 +45,8 @@ Smartphones are essentially tracking beacons. They have GPS, microphones, camera
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x19 Hosting](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x1B I2P ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x19 Hosting](0x19_hosting.md)** | **[🏠 Home](../README.md)** | **[Next: 0x1B I2P ➡️](0x1B_i2p_network.md)**
+[⬅️ Previous: 0x19 Hosting](0x19_hosting.md) | [🏠 Home](../README.md) | [Next: 0x1B I2P ➡️](0x1B_i2p_network.md)

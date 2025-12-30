@@ -67,5 +67,7 @@ gpg --decrypt encrypted_message.asc
 
 > System Message: Every contribution sustains the node. Ack received. //
 
+
+
 ---
-**[⬅️ Previous: 0x02 Tor](0x02_how_tor_works.md)** | **[🏠 Home](../README.md)** | **[Next: 0x04 Windows Warning ➡️](0x04_dont_use_windows.md)**
+[⬅️ Previous: 0x02 Tor](0x02_how_tor_works.md) | [🏠 Home](../README.md) | [Next: 0x04 Windows ➡️](0x04_dont_use_windows.md)

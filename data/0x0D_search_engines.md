@@ -43,8 +43,8 @@ Standard crawlers follow hyperlinks. Dark web sites often don't link to each oth
 
 > System Message: Every contribution sustains the node. Ack received. //
 
----
-**[?? Previous: 0x0C Wiki](0xFFFFFFFF*.md)** | **[?? Home](../README.md)** | **[Next: 0x0E Email ??](0x01*.md)**
+
+
 
 ---
-**[⬅️ Previous: 0x0C Wiki](0x0C_hidden_wiki.md)** | **[🏠 Home](../README.md)** | **[Next: 0x0E Email ➡️](0x0E_email_providers.md)**
+[⬅️ Previous: 0x0C Wiki](0x0C_hidden_wiki.md) | [🏠 Home](../README.md) | [Next: 0x0E Email ➡️](0x0E_email_providers.md)
